@@ -1,0 +1,20 @@
+rewards:
+  world:
+    type: money
+    amount: 100
+  world2:
+    type: item
+    id: 1
+    meta: 0
+    amount: 1
+
+messages:
+  already_found: "Vous avez déjà trouvé cette tête!"
+  found: "Vous avez trouvé une tête, il vous en reste {remaining} dans ce monde !"
+  found_all: "Vous avez trouver toute les têtes du monde {world} !"
+
+  placed: "Vous avez placé une tête!"
+  break: "Vous avez détruit une tête!"
+
+  reward_money: "Vous avez reçu {amount}$ !"
+  reward_item: "Vous avez reçu x{amount} ({id}:{meta}) {name} !"

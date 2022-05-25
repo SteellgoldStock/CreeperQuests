@@ -1,0 +1,6 @@
+name: CreeperQuest
+description: "CreeperQuest plugin"
+version: "1.0.0"
+api: 4.0.0
+author: "Steellg0ld"
+main: steellgold\creeperquest\CQ
